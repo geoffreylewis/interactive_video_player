@@ -1,0 +1,17 @@
+/*==============
+Header Styles
+==============*/
+.header {
+     width: 100%;
+     height: 10vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: $shark;
+}
+
+.header__title {
+     margin: 0;
+     text-align: center;
+     color: $white;
+}
