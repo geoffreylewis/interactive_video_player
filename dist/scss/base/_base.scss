@@ -1,0 +1,24 @@
+/*=====================
+Global Layout Set-up
+=====================*/
+* {
+     box-sizing: border-box;
+     margin: 0;
+     border: 0;
+     padding: 0;
+}
+
+html,
+body {
+     width: 100%;
+     height: auto;
+     background-color: white;
+}
+
+ul {
+     list-style-type: none;
+}
+
+a {
+     text-decoration: none;
+}
