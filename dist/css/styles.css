@@ -1,6 +1,9 @@
 /*=============
 Global Imports
 ===============*/
+/*================
+Utilities Imports
+==================*/
 /*===========
 Base Imports
 =============*/
@@ -316,7 +319,7 @@ html,
 body {
   width: 100%;
   height: auto;
-  background-color: white; }
+  background-color: #fff; }
 
 ul {
   list-style-type: none; }
