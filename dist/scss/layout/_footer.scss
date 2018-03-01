@@ -1,0 +1,16 @@
+/*==============
+Footer Styles
+==============*/
+.footer {
+     width: 100%;
+     height: 8vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: $shark;
+}
+
+.footer__creator {
+     text-align: center;
+     color: $white;
+}

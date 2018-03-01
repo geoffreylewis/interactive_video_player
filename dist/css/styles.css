@@ -347,4 +347,19 @@ Header Styles
   text-align: center;
   color: #fff; }
 
+/*==============
+Footer Styles
+==============*/
+.footer {
+  width: 100%;
+  height: 8vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #252a30; }
+
+.footer__creator {
+  text-align: center;
+  color: #fff; }
+
 /*# sourceMappingURL=styles.css.map */
