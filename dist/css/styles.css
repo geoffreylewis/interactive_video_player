@@ -347,6 +347,23 @@ Header Styles
   text-align: center;
   color: #fff; }
 
+/*==========
+Main Styles
+============*/
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.wrapper {
+  width: 100%;
+  height: auto; }
+
+.video {
+  width: 100%;
+  height: auto; }
+
 /*==============
 Footer Styles
 ==============*/

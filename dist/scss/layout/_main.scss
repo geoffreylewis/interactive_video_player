@@ -1,0 +1,20 @@
+/*==========
+Main Styles
+============*/
+.main {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.wrapper {
+     width: 100%;
+     height: auto;
+}
+
+// First section with video
+.video {
+     width: 100%;
+     height: auto;
+}
