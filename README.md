@@ -4,6 +4,8 @@
 
 ## Software Summary
 
+I built a simple web page (with a mobile-first design) that showcases an interactive video.
+
 ## Built With
 
 * HTML5
@@ -25,4 +27,4 @@
 
 ## Acknowledgements
 
-* ...
+...
