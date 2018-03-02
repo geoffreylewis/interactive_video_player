@@ -9,8 +9,8 @@ I built a simple web page (with a mobile-first design) that showcases an interac
 ## Built With
 
 * HTML5
-* CSS3
-* JavaScript
+* CSS3 / Sass
+* JavaScript / jQuery
 
 ## Additional Notes
 
