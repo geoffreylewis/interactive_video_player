@@ -10,21 +10,31 @@ Main Styles
 }
 
 // First section with video
-.video {
+.video-wrapper {
      width: 100%;
      height: auto;
-
-     @media screen and #{$brk-land} and (max-width: 767px) {
-          height: 90vh;
-     }
 
      @media screen and #{$brk-tablet} {
           max-width: 768px;
      }
 }
 
+.video-mobile {
+     @media screen and #{$brk-tablet} {
+          display: none;
+     }
+}
+
+.video-tablet {
+     display: none;
+
+     @media screen and #{$brk-tablet} {
+          display: block;
+     }
+}
+
 // Second section with transcription
-.wrapper {
+.transcript {
      width: 85%;
      height: auto;
      padding: 0.5em 0;
@@ -35,7 +45,7 @@ Main Styles
      }
 }
 
-.transcription {
+.transcript__para {
      line-height: 1.5;
      padding: 0.5em 0;
 
