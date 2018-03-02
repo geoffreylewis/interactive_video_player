@@ -13,6 +13,14 @@ Main Styles
 .video {
      width: 100%;
      height: auto;
+
+     @media screen and #{$brk-land} and (max-width: 767px) {
+          height: 90vh;
+     }
+
+     @media screen and #{$brk-tablet} {
+          max-width: 768px;
+     }
 }
 
 // Second section with transcription
@@ -20,9 +28,18 @@ Main Styles
      width: 85%;
      height: auto;
      padding: 0.5em 0;
+
+     @media screen and #{$brk-tablet} {
+          width: 100%;
+          max-width: 768px;
+     }
 }
 
 .transcription {
      line-height: 1.5;
      padding: 0.5em 0;
+
+     @media screen and #{$brk-tablet} {
+          font-size: 1.5em;
+     }
 }

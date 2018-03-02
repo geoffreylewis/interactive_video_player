@@ -5,3 +5,7 @@ $shark          : #252a30;
 
 // Font stacks
 $stack-roboto   : 'Roboto', sans-serif;
+
+// Media query breakpoints
+$brk-tablet     : '(min-width: 768px)';
+$brk-land       : '(orientation: landscape)';
