@@ -350,19 +350,25 @@ Header Styles
 /*==========
 Main Styles
 ============*/
-.main {
+.main,
+.section {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center; }
 
-.wrapper {
-  width: 100%;
-  height: auto; }
-
 .video {
   width: 100%;
   height: auto; }
+
+.wrapper {
+  width: 85%;
+  height: auto;
+  padding: 0.5em 0; }
+
+.transcription {
+  line-height: 1.5;
+  padding: 0.5em 0; }
 
 /*==============
 Footer Styles
