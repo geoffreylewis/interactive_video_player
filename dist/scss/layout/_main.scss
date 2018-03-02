@@ -19,20 +19,6 @@ Main Styles
      }
 }
 
-.video-mobile {
-     @media screen and #{$brk-tablet} {
-          display: none;
-     }
-}
-
-.video-tablet {
-     display: none;
-
-     @media screen and #{$brk-tablet} {
-          display: block;
-     }
-}
-
 // Second section with transcription
 .transcript {
      width: 85%;
