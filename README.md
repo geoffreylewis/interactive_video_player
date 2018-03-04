@@ -34,4 +34,6 @@ I built a simple web page (with a mobile-first design) that showcases an interac
 
 ## Acknowledgements
 
-...
+I'd like to thank Team Treehouse for providing another great project idea through their "Front End Web Development" techdegree.  This whole process has been an extremely valuable learning experience for me.
+
+Also, a shout out to the creator(s) of Media Element for creating an awesome media player plugin.
