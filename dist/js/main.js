@@ -8,7 +8,7 @@ transWrap.addEventListener('click', (e) => {
           let startPoint = e.target.getAttribute('data-start');
           video.currentTime = startPoint;
      }
-})
+});
 
 // As the video progresses, the associated part in the transcript will be highlighted
 video.addEventListener('timeupdate', () => {
