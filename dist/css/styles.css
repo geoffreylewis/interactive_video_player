@@ -380,6 +380,9 @@ Main Styles
     .transcript__para {
       font-size: 1.5em; } }
 
+.spoken {
+  color: #ffad33; }
+
 /*==============
 Footer Styles
 ==============*/
