@@ -13,8 +13,10 @@ I built a simple web page (with a mobile-first design) that showcases an interac
 * CSS3 / Sass
 * JavaScript / jQuery
 
-## Additional Notes
+## Version History
 
+**Version 1.0**  
+*3/4/2018*  
 * All of the HTML has been run through the W3C HTML validator.  There are 2 errors that say the width and height attributes on the video should not be percentages.  I'm leaving them as percentages because that is what the creators of the media player plugin have recommended in their documentation so that the video's dimensions can scale appropriately to the screen.
 * All of the CSS code has been successfully run through the W3C CSS validator; there are no errors.
 * All of the JavaScript has been successfully run through JSHint; it only mentions some ES6 standards.
